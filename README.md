@@ -6,4 +6,4 @@
 * when you select each note you can edit title and body of that note.
 * when you refresh the page the information of note list not removed and are saved in local storage.
  
-<img src="pic1.JPG" width="700"/>
+<img src="p1.JPG" width="700"/>
