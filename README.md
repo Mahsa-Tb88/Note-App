@@ -7,4 +7,4 @@
 * when you refresh the page the information of note list not removed and are saved in local storage.
 
  
-<img src="images/pic1.JPG" width="700"/>
+<img src="pic1.JPG" width="700"/>
